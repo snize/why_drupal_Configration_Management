@@ -189,9 +189,10 @@ Configuration Management!
 #### 過去のスライドとデモ
 
 - [Configuration Split Demo](https://github.com/snize/demo-config-split): Core CMで足りないところの話とデモ
-- [Talking with Drupal](https://github.com/snize/demo_drupal-psysh): psyshでdrupalと対話的に
+- [Talking with Drupal](https://github.com/snize/demo_drupal-psysh): psyshでdrupalと対話的にデバッグ
 
 #### コンタクト
 
 - [@snize](https://twitter.com/snize)
+- @tomotsugu_kaneko - [drupal-japan.slack.com](https://docs.google.com/forms/d/e/1FAIpQLSeuP5tW2Rrwte0c2VNkZnEJ_lTKNRRUicqBbR1S7wUmbqox2A/viewform?c=0&w=1)
 - kaneko@zerobase.jp
