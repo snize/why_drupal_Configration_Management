@@ -15,7 +15,8 @@
  *********************************************/
 body {
   background: #222;
-  background-color: #222; }
+  background-color: #222;
+  background-image: none; }
 
 .reveal {
   font-family: Ubuntu, "sans-serif";

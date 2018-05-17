@@ -176,7 +176,7 @@ effects:
 
 ## ということで、本日のWhy Drupalは
 Configuration Management!
-
+ 
 
 
 ## 以上です、ありがとうございました<br /> (｡･ω･｡)ﾉ

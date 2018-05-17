@@ -10,7 +10,8 @@
  *********************************************/
 body {
   background: #111;
-  background-color: #111; }
+  background-color: #111;
+  background-image: none; }
 
 .reveal {
   font-family: "Open Sans", sans-serif;

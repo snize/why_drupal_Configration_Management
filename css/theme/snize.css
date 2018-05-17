@@ -47,8 +47,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 body {
   background: #101A1B;
   background-color: #101A1B;
-  background-image: linear-gradient(to right bottom, #101a1b, #2e2e0c);
- }
+  background-image: linear-gradient(to right bottom, #101a1b, #2e2e0c); }
 
 .reveal {
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Original Yu Gothic", "Yu Gothic", YuGothic, Verdana, Meiryo, "M+ 1p", sans-serif;
@@ -344,7 +343,7 @@ body {
   line-height: 1.5;
   margin-bottom: 50px; }
 
-.reveal ul {
+.reveal ul, ol {
   font-size: 0.9em;
   line-height: 1.5;
   margin-bottom: 30px; }

@@ -59,6 +59,7 @@
 
 // Override theme settings (see ../template/settings.scss)
 $backgroundColor: #101A1B;
+$backgroundImage: linear-gradient(to right bottom, #101a1b, #2e2e0c);
 
 $mainColor: #fff;
 $headingColor: #C7C837;
@@ -114,7 +115,7 @@ section.has-light-background {
 	margin-bottom: 50px;
 }
 
-.reveal ul, {
+.reveal ul, ol {
 	font-size: 0.9em;
 	line-height: 1.5;
 	margin-bottom: 30px;

@@ -16,7 +16,8 @@ html * {
  *********************************************/
 body {
   background: #002b36;
-  background-color: #002b36; }
+  background-color: #002b36;
+  background-image: none; }
 
 .reveal {
   font-family: "Lato", sans-serif;
