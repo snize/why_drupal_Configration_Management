@@ -176,13 +176,15 @@ effects:
 
 ## ということで、本日のWhy Drupalは
 Configuration Management!
- 
+
 
 
 ## 以上です、ありがとうございました<br /> (｡･ω･｡)ﾉ
 
-- このスライドのリポジトリ
 
+#### 本日のスライド
+
+- [Why Drupal - Configuration Management](https://github.com/snize/why_drupal_Configration_Management)
 
 #### 過去のスライドとデモ
 
@@ -191,5 +193,5 @@ Configuration Management!
 
 #### コンタクト
 
+- [@snize](https://twitter.com/snize)
 - kaneko@zerobase.jp
-- twitter:@snize
