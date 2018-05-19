@@ -8,9 +8,9 @@ kaneko@zerobase.jp<br>
 
 ## Intro
 
-- どちらかと言うとビジネス向けの話をします
-- WEB系のエンジニアで、プロトタイピングから本番までのフロントエンドからバックエンドまで
+- WEB系のエンジニアで、プロトタイピングから本番までの<br>フロントエンドからバックエンドまで
 - 案件によってはDrupalを採用
+- **Drupal 8を採用するビジネス的なメリット**
 - エンジニア向けのデモも最後に共有します
 
 
@@ -48,7 +48,7 @@ Drupalでの構成管理？
 Drupal 8からは設定の<br>**インポート/エクスポートが標準でサポート**
 
 
-他のソースコードと共に構成管理がしやすくなった
+つまり、他のソースコードと共に管理がしやすくなった
 
 > ソースコードなどの成果物の変更履歴を管理し、任意のバージョンの製品を再現可能とする。
 
@@ -71,12 +71,15 @@ Configuration Managementしない場合に比べて...
 - リリースに問題があった場合ロールバックしやすい
 
 
-つまり、開発側が**本質的な作業に集中**できるので<br>
-ビジネス的には**プロダクトの価値**を<br>ユーザに届けるまでの**距離が短くなる**
+## ビジネス的なメリット
+
+
+開発側が**本質的な作業に集中**できるので<br>
+ビジネス的には**プロダクトの価値**を<br>ユーザに**早く届けられる**
 
 
 フルスクラッチでの開発に比べて<br>
-**CMSを利用する理由**はなんですか？
+**CMSを利用する理由**と一致しませんか？
 
 
 
@@ -184,12 +187,13 @@ Configuration Management!
 
 #### 本日のスライド
 
-- [Why Drupal - Configuration Management](https://github.com/snize/why_drupal_Configration_Management)
+- [Why Drupal - Configuration Management](https://snize.github.io/why_drupal_Configration_Management/#/)
 
 #### 過去のスライドとデモ
 
 - [Configuration Split Demo](https://github.com/snize/demo-config-split): Core CMで足りないところの話とデモ
 - [Talking with Drupal](https://github.com/snize/demo_drupal-psysh): psyshでdrupalと対話的にデバッグ
+
 
 #### コンタクト
 
